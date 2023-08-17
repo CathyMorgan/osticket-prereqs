@@ -41,22 +41,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/f49bec6a-59ae-4ebc-9850-7ac67c356c7c)
 
+<br />
 
 2. Create a Windows 10 Virtual Machine (VM), commonly with 2-4 Virtual CPUs. Enter a Username and password this can be whatever you choose, we will use this information to remote in from our main computer. Allow Azure to construct a new virtual Network (Vnet) while creating the Virtual Machine (VM):<p>
 
 <img width="1323" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/2c0747bb-fe5d-40a6-8717-74231002b952">
 
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/27846ccc-cfec-4ccd-a02d-ef94f25348a7) 
+
+<br />
+
 3. Open the remote desktop app on your computer and connect to your virtual machine within Azure using its ip address.
+
+Remote desktop example on a Macbook computer.
    
 <img width="1415" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/16505d70-4379-40fc-872b-fe5a4702e787">
+
 </p>
+
+Remote Desktop example on a Microsoft computer.
 
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/080a8d31-7ee1-4b22-98dc-074110971e38)
 
 <br />
 
 <p>
-  
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
