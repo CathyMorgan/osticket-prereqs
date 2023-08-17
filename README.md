@@ -69,3 +69,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/39377c97-e0a3-48ff-abfc-cdd91947ab61)
+
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/27846ccc-cfec-4ccd-a02d-ef94f25348a7)
+
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/54db7a40-3ca5-4d01-8fb1-37f40ffd5d77)
+
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/c0c51b07-28c0-4369-8c6b-7c333e444b29)
+
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/594fdfb8-67f0-4894-ab9b-f5f942add885)
+
+
