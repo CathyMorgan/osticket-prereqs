@@ -66,13 +66,19 @@ Remote Desktop example on a Microsoft computer.
 <br />
 
 <p>
-4. 
+4. We must now install and enable IIS in Windows. Enter "Control Panel" into your Search Bar > "Programmes" > "Turn Windows features on or off" > "OK" Scroll down until you reach "Internet Information Services (IIS)."
+
+  
+
+5.Find the "Internet Information Services" tab, expand it, and then the "World Wide Web" tab. Then, expand the Developer tab in the application. Finally, tick the "CGI" box and click OK. To download the PHP Manager, you will need CGI. The PHP manager is a back-end web programming language that enables osTicket to be run through a web browser.
 
 <img width="1042" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/6aca310c-daf5-4d72-ad94-674a1d1f93d1">
 
 
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/f568f668-f300-44da-8c4a-d1b910c650a2)
+
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/cc7ca959-244c-4c3d-a153-3c83105dfe23)
 
-![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/f568f668-f300-44da-8c4a-d1b910c650a2)
+
 
 
