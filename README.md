@@ -66,32 +66,13 @@ Remote Desktop example on a Microsoft computer.
 <br />
 
 <p>
+4. 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="1042" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/6aca310c-daf5-4d72-ad94-674a1d1f93d1">
 
 
-![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/39377c97-e0a3-48ff-abfc-cdd91947ab61)
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/cc7ca959-244c-4c3d-a153-3c83105dfe23)
 
-![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/27846ccc-cfec-4ccd-a02d-ef94f25348a7)
-
-![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/54db7a40-3ca5-4d01-8fb1-37f40ffd5d77)
-
-![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/c0c51b07-28c0-4369-8c6b-7c333e444b29)
-
-![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/594fdfb8-67f0-4894-ab9b-f5f942add885)
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/f568f668-f300-44da-8c4a-d1b910c650a2)
 
 
