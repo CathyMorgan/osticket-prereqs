@@ -131,6 +131,9 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/8ee398fa-e2b9-44dd-9d80-9da37dc9ca20)
 
 
+<img width="583" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/1a6003cd-57c4-46da-9bde-739b23aac0ff">
+
+
 <img width="528" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/adeee886-f94d-4f3e-8e62-6c30bbb582e8">
 
 <h3 align="center">VC Redist Download</h3>
