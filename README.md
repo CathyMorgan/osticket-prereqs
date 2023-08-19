@@ -163,6 +163,10 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
 
 
   <h3 align="center">VC Download MySQL</h3>
+
+  ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/ce16d59b-0ca1-4762-99de-ede96e6c16ff)
+
+
   
 
   <h3 align="center">Install osTicket v1.15.8
