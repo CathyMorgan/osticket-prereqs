@@ -149,36 +149,54 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
 
 - Visit the Microsoft Download Center website.
 - Search for "Visual C++ Redistributable Packages for Visual Studio".
-- Choose the appropriate version (32-bit or 64-bit) and language.
+- Choose the appropriate version (32-bit or 64-bit) and language. (Please also note I have attached all downloadable files for this project at the top of the page)
+  
 - Download the file.
 - Locate and run the installer.
 - Follow the on-screen instructions to install.
 - Accept the terms and agreements if you agree.
 - Complete the installation by following any remaining prompts.
 
+
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/9d08a9a9-b860-47e2-909b-22fc95c58a1e)
+
+
+
   <h3 align="center">VC Download MySQL</h3>
+  
 
   <h3 align="center">Install osTicket v1.15.8
+  
 
   <h3 align="center">Reload IIS (Open IIS, Stop and Start the server)
+  
 
   <h3 align="center">Enable Extensions in IIS: Note that some extensions are not enabled
+  
 
   <h3 align="center">Refresh the osTicket site in your browser, observe the changes
+  
 
     <h3 align="center">Rename
     
+    
     <h3 align="center">Assign Permissions: ost-config.php
     
+    
     <h3 align="center">Continue Setting up osTicket in the browser (click Continue)
+    
 
     <h3 align="center">Download and Install HeidiSQL
     
+    
     <h3 align="center">Continue Setting up osTicket in the browser
+    
 
      <h3 align="center">Clean up
+     
 
     <h3 align="center">Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)
+    
 
 
   <h3 align="center">Installation of osTicket Completed.
