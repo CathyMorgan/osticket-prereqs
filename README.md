@@ -125,7 +125,13 @@ To install the PHP Manager and download the required files, follow these steps:
 - In the "Extract Compressed (Zipped) Folders" window, ensure that the "Destination" field shows the path "C:\PH".
 - Click the "Extract" button to extract the PHP files to the "C:\PH" folder.
 
-These steps should allow you to create the "C:\PH" directory and extract the PHP file successfully. 
+These steps should allow you to create the "C:\PH" directory and extract the PHP file successfully.
+
+
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/8ee398fa-e2b9-44dd-9d80-9da37dc9ca20)
+
+
+<img width="528" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/adeee886-f94d-4f3e-8e62-6c30bbb582e8">
 
 <h3 align="center">VC Redist Download</h3>
 
