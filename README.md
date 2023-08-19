@@ -175,8 +175,12 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
   
 
   <h3 align="center">Refresh the osTicket site in your browser, observe the changes
-  
 
+  
+  <br />
+<p>
+
+  
     <h3 align="center">Rename
     
     
