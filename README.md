@@ -138,7 +138,7 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
 <img width="583" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/1a6003cd-57c4-46da-9bde-739b23aac0ff">
 
 
-<img width="528" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/adeee886-f94d-4f3e-8e62-6c30bbb582e8">
+
 
 <h3 align="center">VC Redist Download</h3>
 
@@ -154,6 +154,9 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
 
 
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/9d08a9a9-b860-47e2-909b-22fc95c58a1e)
+
+
+<img width="528" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/adeee886-f94d-4f3e-8e62-6c30bbb582e8">
 
 
 
@@ -177,6 +180,9 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
 
   
   <h3 align="center">Enable Extensions in IIS: Note that some extensions are not enabled
+
+
+  <img width="471" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/3de52311-a6a1-4d56-a063-020569567289">
   
 
   <h3 align="center">Refresh the osTicket site in your browser, observe the changes
