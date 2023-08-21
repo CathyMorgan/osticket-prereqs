@@ -165,11 +165,16 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
   
 
   <h3 align="center">Install osTicket v1.15.8
+
+
+
   
 
   <h3 align="center">Reload IIS (Open IIS, Stop and Start the server)
-  
 
+  <img width="1434" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/e6287971-5173-45f4-872e-fb5550c298cf">
+
+  
   <h3 align="center">Enable Extensions in IIS: Note that some extensions are not enabled
   
 
