@@ -167,6 +167,7 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
   <h3 align="center">Install osTicket v1.15.8
 
 
+  <img width="952" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/4b189510-a0fe-4756-aad5-3808633185b5">
 
   
 
