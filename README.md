@@ -83,6 +83,8 @@ Remote Desktop example on a Microsoft computer.
 
 5. Click on "Internet Information Services" to expand it. Expand the "World Wide Web" tab. Next, expand the "Application Developer" tab. Check the "CGI*" button and press Ok.
 
+<img width="1131" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/928733f5-6602-47c6-b7d5-2eb90d1b588d">
+
 Enabling CGI is necessary to download the PHP Manager, which is a back-end web programming language that allows osTicket to function smoothly on a web browser.
 
 
@@ -100,6 +102,8 @@ To install the PHP Manager and download the required files, follow these steps:
 - Begin by downloading the PHP Manager file.
 - During the installation process, make sure to agree with all the terms and conditions.
 - Once the installation is finished, you will have successfully downloaded the PHP Manager into your operating system.
+
+<img width="1375" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/9d12451f-309c-4cc1-8e4e-252608ed3d33">
 
 <h3 align="center">Install Rewrite Module</h3>
 <br />
@@ -136,7 +140,7 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
 
 <img width="583" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/1a6003cd-57c4-46da-9bde-739b23aac0ff">
 
-
+<img width="1431" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/4b2285be-9ceb-4b58-8e1a-54f3c9acb0c5">
 
 
 <h3 align="center">VC Redist Download</h3>
@@ -166,8 +170,7 @@ Down and install MySQL and agree to all permissions. You will then create a user
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/c3a003ae-23e7-49f9-ba6c-11ffde076158)
 
 
-  ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/ce16d59b-0ca1-4762-99de-ede96e6c16ff)
-
+<img width="768" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/9cd0c04e-e446-417a-ab4b-234689cf0c79">
 
   
 
