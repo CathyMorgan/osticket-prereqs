@@ -188,7 +188,8 @@ Down and install MySQL and agree to all permissions. You will then create a user
 Go to IIS> Sights> Default> osTicket and double-click PHP Manager:
 
 
- <img width="952" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/4b189510-a0fe-4756-aad5-3808633185b5">
+<img width="368" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/08841067-436d-4ca7-a5a1-11f85a87e028">
+
 
 
 Click "Enable or disable relevant extensions".
@@ -198,16 +199,25 @@ Click "Enable or disable relevant extensions".
 Please enable the following PHP extensions:
 
  
-- php_imap.dll
-- php_intl.dll
-- php_opcache.dll
+(php_imap.dll)
+(php_intl.dll)
+(php_opcache.dll)
 
 
   <h3 align="center">Refesh osTicket (notice changes).
 
-  
 
-    
+
+   <img width="952" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/4b189510-a0fe-4756-aad5-3808633185b5">
+
+<h3 align="center"> Rename 
+
+From C:\inetpub\wwwroot\Ticket\include\ost-sampleconfig.php.
+
+To: C\inetpub\wwwroot\osTicket\include\ost-config.php:
+
+
+  
 <h3 align="center">Assign Relevant Permissions: ost- config.php
 
 
