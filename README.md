@@ -159,7 +159,6 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/9d08a9a9-b860-47e2-909b-22fc95c58a1e)
 
 
-<img width="528" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/adeee886-f94d-4f3e-8e62-6c30bbb582e8">
 
 
 
@@ -169,6 +168,7 @@ Download and install MySQL and agree to all permissions. You will then create a 
 
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/c3a003ae-23e7-49f9-ba6c-11ffde076158)
 
+<img width="853" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/46d87612-40a2-4002-ad1f-d185166c9900">
   
 
   <h3 align="center">Install osTicket v1.15.8
@@ -183,11 +183,13 @@ Download and install MySQL and agree to all permissions. You will then create a 
 
   <h3 align="center">Reload IIS (Open IIS, Stop and Start the server)
 
-  <img width="1434" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/e6287971-5173-45f4-872e-fb5550c298cf">
+<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/52320c96-489e-490e-a5ee-c1a16e2881e0">
 
 <img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/13872d1f-6112-470c-bf14-3ef34f0f945e">
   
   <h3 align="center">Enable Extensions in IIS: Note that some extensions are not enabled
+
+<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/64ba8d71-9fd2-437b-b420-987a520c26a0">
 
 Go to IIS> Sights> Default> osTicket and double-click PHP Manager:
 
@@ -212,16 +214,19 @@ Please enable the following PHP extensions:
 
 
 
-   <img width="952" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/4b189510-a0fe-4756-aad5-3808633185b5">
+
 
 <h3 align="center"> Rename 
+
+
 
 From C:\inetpub\wwwroot\Ticket\include\ost-sampleconfig.php.
 
 To: C\inetpub\wwwroot\osTicket\include\ost-config.php:
 
+ <img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/d5f6f3b7-aed9-48f9-9137-139d158409c0">
 
-  
+ 
 <h3 align="center">Assign Relevant Permissions: ost- config.php
 
 
