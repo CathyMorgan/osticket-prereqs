@@ -213,7 +213,7 @@ Please enable the following PHP extensions:
   <h3 align="center">Refesh osTicket (notice changes).
 
 
-
+<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/2b88feed-4ad9-45aa-9ee0-ff111e9af3b1">
 
 
 <h3 align="center"> Rename 
@@ -229,7 +229,7 @@ To: C\inetpub\wwwroot\osTicket\include\ost-config.php:
  
 <h3 align="center">Assign Relevant Permissions: ost- config.php
 
-
+<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/e7d6c792-c9f7-4739-9a1f-93cbc89f4bdd">
 
 Everyone given permission (New Permissions> Everyone> All).
 
@@ -238,6 +238,37 @@ Everyone given permission (New Permissions> Everyone> All).
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/3cfc8186-1e07-4f27-ac22-1eae2d2818e2)
 
 
+
+<h3 align="center">Continue Setting up osTicket 
+
+<img width="505" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/052cf289-c567-4ab6-ac47-897410460edb">
+
+<img width="505" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/fb0b4ce7-6bd1-400f-8082-352e01f1aebb">
+
+<h3 align="center">Download and Install HeidiSQL
+
+  <img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/45a51baa-8ec5-4b82-a36e-2ed0b3ec14e4">
+
+<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/3e178a65-5424-4c9e-8bf5-db749307787b">
+
+<img width="688" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/ea956916-c5df-4c0c-88f7-be7e61313977">
+
+<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/84bb8818-405c-403e-ac4c-bd736fef5fa8">
+
+<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/a446334f-7afc-4b74-92cf-0a0ad38c8784">
+
+<h3 align="center">Clean Up
+
+Delete C:\inetpub\wwwroot\osTicket\setup:
+
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/5112d074-53bb-40e7-9fc0-b28391451d74)
+
+Set Permission to read-only.
+
+<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/26a521ac-dcb2-4666-af96-26842c323b57">
+
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/786106a8-5428-48c5-b374-32a312033031)
+  
 <h3 align="center"> Login to osTicket Admin Panel
 
 
