@@ -243,17 +243,29 @@ Everyone given permission (New Permissions> Everyone> All).
 
 <img width="505" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/052cf289-c567-4ab6-ac47-897410460edb">
 
-<img width="505" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/fb0b4ce7-6bd1-400f-8082-352e01f1aebb">
+
 
 <h3 align="center">Download and Install HeidiSQL
 
   <img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/45a51baa-8ec5-4b82-a36e-2ed0b3ec14e4">
 
+Create a new session and input root/Password then connect:
+
 <img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/3e178a65-5424-4c9e-8bf5-db749307787b">
+
+Create a database called osTicket:
 
 <img width="688" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/ea956916-c5df-4c0c-88f7-be7e61313977">
 
+
+<h3 align="center"> Finish setting up osTicket in the browser
+
+MySQL Database (osTicket), Username (root) and the password chosen.
+
+
 <img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/84bb8818-405c-403e-ac4c-bd736fef5fa8">
+
+osTicket installed.
 
 <img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/a446334f-7afc-4b74-92cf-0a0ad38c8784">
 
@@ -265,11 +277,13 @@ Delete C:\inetpub\wwwroot\osTicket\setup:
 
 Set Permission to read-only.
 
-<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/26a521ac-dcb2-4666-af96-26842c323b57">
+<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/9f0e6b79-b979-48f7-a567-89ccac808673">
 
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/786106a8-5428-48c5-b374-32a312033031)
   
-<h3 align="center"> Login to osTicket Admin Panel
+<h3 align="center"> Login to osTicket Admin Panel (http://localhost/osTicket/scp/login.php)
+
+
 
 
   
@@ -277,4 +291,4 @@ Set Permission to read-only.
 
 
 
-<h3 align="center"> installation of osTicket
+<h3 align="center"> Installation of osTicket Completed.
