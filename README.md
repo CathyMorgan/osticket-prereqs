@@ -160,6 +160,9 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
 
   <h3 align="center">VC Download MySQL</h3>
 
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/c3a003ae-23e7-49f9-ba6c-11ffde076158)
+
+
   ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/ce16d59b-0ca1-4762-99de-ede96e6c16ff)
 
 
@@ -168,7 +171,7 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
   <h3 align="center">Install osTicket v1.15.8
 
 
-  <img width="952" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/4b189510-a0fe-4756-aad5-3808633185b5">
+ 
 
   
 
@@ -179,43 +182,30 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
   
   <h3 align="center">Enable Extensions in IIS: Note that some extensions are not enabled
 
+Go to IIS> Sights> Default> osTicket and double-click PHP Manager:
 
-  <img width="471" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/3de52311-a6a1-4d56-a063-020569567289">
-  
 
-  <h3 align="center">Refresh the osTicket site in your browser, observe the changes
+ <img width="952" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/4b189510-a0fe-4756-aad5-3808633185b5">
 
-  
-  <br />
+<br />
 <p>
+Click "Enable or disable relevant extensions".
 
+Enable:php_imap.dll.
+
+Enable: php_intl.dll.
+
+Enable php_opcache.dll:
+
+
+<h3 align="center">Assign Relevant Permissions: ost- config.php
+
+Everyone given permission (New Permissions> Everyone> All).
+
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/3cfc8186-1e07-4f27-ac22-1eae2d2818e2)
+
+<h3 align="center"> Login to osTicket Admin Panel
   
-    <h3 align="center">Rename
-    
-    
-    <h3 align="center">Assign Permissions: ost-config.php
-    
-    
-    <h3 align="center">Continue Setting up osTicket in the browser (click Continue)
-    
+<img width="700" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/477e44e8-48fa-4580-8673-8b911ce7cbb4">
 
-    <h3 align="center">Download and Install HeidiSQL
-    
-    
-    <h3 align="center">Continue Setting up osTicket in the browser
-    
-
-     <h3 align="center">Clean up
-     
-
-    <h3 align="center">Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)
-    
-
-
-  <h3 align="center">Installation of osTicket Completed.
-    
-    
-    
-
-  .
-8.
+<h3 align="center"> installation of osTicket
