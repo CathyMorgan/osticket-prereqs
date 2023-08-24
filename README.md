@@ -165,7 +165,7 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
 
   <h3 align="center">VC Download MySQL</h3>
 
-Down and install MySQL and agree to all permissions. You will then create a username and password for the platform you will use to store the information used in osTicket.  
+Download and install MySQL and agree to all permissions. You will then create a username and password for the platform you will use to store the information used in osTicket.  
 
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/c3a003ae-23e7-49f9-ba6c-11ffde076158)
 
