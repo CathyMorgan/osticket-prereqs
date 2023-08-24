@@ -169,22 +169,23 @@ Down and install MySQL and agree to all permissions. You will then create a user
 
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/c3a003ae-23e7-49f9-ba6c-11ffde076158)
 
-
-<img width="768" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/9cd0c04e-e446-417a-ab4b-234689cf0c79">
-
   
 
   <h3 align="center">Install osTicket v1.15.8
 
-
+<img width="768" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/e9dc50cb-94af-427e-8f08-18f3349fd69e">
  
+<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/3d83f436-f339-4cd1-a45c-d184734f4a05">
 
-  
+<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/63dea9ea-d4e4-44b3-85d4-372dac3dc87c">
+
+<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/6184d9a5-e396-47e0-9239-f3d8379330fa">
 
   <h3 align="center">Reload IIS (Open IIS, Stop and Start the server)
 
   <img width="1434" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/e6287971-5173-45f4-872e-fb5550c298cf">
 
+<img width="1440" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/13872d1f-6112-470c-bf14-3ef34f0f945e">
   
   <h3 align="center">Enable Extensions in IIS: Note that some extensions are not enabled
 
