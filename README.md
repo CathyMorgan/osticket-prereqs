@@ -188,7 +188,7 @@ Down and install MySQL and agree to all permissions. You will then create a user
 Go to IIS> Sights> Default> osTicket and double-click PHP Manager:
 
 
-<img width="368" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/08841067-436d-4ca7-a5a1-11f85a87e028">
+![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/fede5169-a9fc-477e-b6ad-5ac7e660964c)
 
 
 
