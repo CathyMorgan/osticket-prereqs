@@ -161,6 +161,8 @@ These steps should allow you to create the "C:\PH" directory and extract the PHP
 
   <h3 align="center">VC Download MySQL</h3>
 
+Down and install MySQL and agree to all permissions. You will then create a username and password for the platform you will use to store the information used in osTicket.  
+
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/c3a003ae-23e7-49f9-ba6c-11ffde076158)
 
 
@@ -188,25 +190,41 @@ Go to IIS> Sights> Default> osTicket and double-click PHP Manager:
 
  <img width="952" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/4b189510-a0fe-4756-aad5-3808633185b5">
 
-<br />
-<p>
+
 Click "Enable or disable relevant extensions".
 
-Enable:php_imap.dll.
-
-Enable: php_intl.dll.
-
-Enable php_opcache.dll:
 
 
+Please enable the following PHP extensions:
+
+ 
+- php_imap.dll
+- php_intl.dll
+- php_opcache.dll
+
+
+  <h3 align="center">Refesh osTicket (notice changes).
+
+  
+
+    
 <h3 align="center">Assign Relevant Permissions: ost- config.php
+
+
 
 Everyone given permission (New Permissions> Everyone> All).
 
+
+
 ![image](https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/3cfc8186-1e07-4f27-ac22-1eae2d2818e2)
 
+
 <h3 align="center"> Login to osTicket Admin Panel
+
+
   
 <img width="700" alt="image" src="https://github.com/CathyMorgan/osticket-prereqs/assets/107357582/477e44e8-48fa-4580-8673-8b911ce7cbb4">
+
+
 
 <h3 align="center"> installation of osTicket
